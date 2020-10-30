@@ -3,3 +3,5 @@ changed first time
 3rd time
 4th time - only modified
 5th time-again modified and staged 1st modified file
+6th time-To confirm if no file in stagin area then git diff --staged will work or not
+7th time-Skipping the staging area
